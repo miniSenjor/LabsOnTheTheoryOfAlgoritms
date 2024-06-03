@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skvor\\Documents\\\u041A\u0423\u0421\u0422\\GitHub\\MyLabsOnTheTheoryOfAlgoritms\\lr1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F230278-AF81-4A82-996F-2238A7B7BC9D}|simplexMethod\\simplexMethod.csproj|c:\\users\\skvor\\documents\\\u043A\u0443\u0441\u0442\\github\\mylabsonthetheoryofalgoritms\\lr1\\simplexmethod\\simplexmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F230278-AF81-4A82-996F-2238A7B7BC9D}|simplexMethod\\simplexMethod.csproj|solutionrelative:simplexmethod\\simplexmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F230278-AF81-4A82-996F-2238A7B7BC9D}|simplexMethod\\simplexMethod.csproj|C:\\Users\\skvor\\Documents\\\u041A\u0423\u0421\u0422\\GitHub\\MyLabsOnTheTheoryOfAlgoritms\\lr1\\simplexmethod\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F230278-AF81-4A82-996F-2238A7B7BC9D}|simplexMethod\\simplexMethod.csproj|solutionrelative:simplexmethod\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F230278-AF81-4A82-996F-2238A7B7BC9D}|simplexMethod\\simplexMethod.csproj|C:\\Users\\skvor\\Documents\\\u041A\u0423\u0421\u0422\\GitHub\\MyLabsOnTheTheoryOfAlgoritms\\lr1\\simplexmethod\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F230278-AF81-4A82-996F-2238A7B7BC9D}|simplexMethod\\simplexMethod.csproj|solutionrelative:simplexmethod\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimplexMethod.cs",
+              "DocumentMoniker": "C:\\Users\\skvor\\Documents\\\u041A\u0423\u0421\u0422\\GitHub\\MyLabsOnTheTheoryOfAlgoritms\\lr1\\simplexMethod\\SimplexMethod.cs",
+              "RelativeDocumentMoniker": "simplexMethod\\SimplexMethod.cs",
+              "ToolTip": "C:\\Users\\skvor\\Documents\\\u041A\u0423\u0421\u0422\\GitHub\\MyLabsOnTheTheoryOfAlgoritms\\lr1\\simplexMethod\\SimplexMethod.cs",
+              "RelativeToolTip": "simplexMethod\\SimplexMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:35:18.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\skvor\\Documents\\\u041A\u0423\u0421\u0422\\GitHub\\MyLabsOnTheTheoryOfAlgoritms\\lr1\\simplexMethod\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "simplexMethod\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\skvor\\Documents\\\u041A\u0423\u0421\u0422\\GitHub\\MyLabsOnTheTheoryOfAlgoritms\\lr1\\simplexMethod\\MainWindow.xaml",
+              "RelativeToolTip": "simplexMethod\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T07:34:19.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\skvor\\Documents\\\u041A\u0423\u0421\u0422\\GitHub\\MyLabsOnTheTheoryOfAlgoritms\\lr1\\simplexMethod\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "simplexMethod\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\skvor\\Documents\\\u041A\u0423\u0421\u0422\\GitHub\\MyLabsOnTheTheoryOfAlgoritms\\lr1\\simplexMethod\\MainWindow.xaml.cs",
+              "RelativeToolTip": "simplexMethod\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:34:19.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

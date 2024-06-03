@@ -1,0 +1,10 @@
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr4\alDijkstra\obj\Debug\alDijkstra.csproj.AssemblyReference.cache
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr4\alDijkstra\obj\Debug\alDijkstra.Form1.resources
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr4\alDijkstra\obj\Debug\alDijkstra.Properties.Resources.resources
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr4\alDijkstra\obj\Debug\alDijkstra.csproj.GenerateResource.cache
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr4\alDijkstra\obj\Debug\alDijkstra.csproj.CoreCompileInputs.cache
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr4\alDijkstra\bin\Debug\alDijkstra.exe.config
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr4\alDijkstra\bin\Debug\alDijkstra.exe
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr4\alDijkstra\bin\Debug\alDijkstra.pdb
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr4\alDijkstra\obj\Debug\alDijkstra.exe
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr4\alDijkstra\obj\Debug\alDijkstra.pdb

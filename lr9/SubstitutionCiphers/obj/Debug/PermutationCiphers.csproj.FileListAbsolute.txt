@@ -1,0 +1,10 @@
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr9\PermutationCiphers\bin\Debug\PermutationCiphers.exe.config
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr9\PermutationCiphers\bin\Debug\PermutationCiphers.exe
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr9\PermutationCiphers\bin\Debug\PermutationCiphers.pdb
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr9\PermutationCiphers\obj\Debug\PermutationCiphers.csproj.AssemblyReference.cache
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr9\PermutationCiphers\obj\Debug\PermutationCiphers.Properties.Resources.resources
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr9\PermutationCiphers\obj\Debug\PermutationCiphers.csproj.GenerateResource.cache
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr9\PermutationCiphers\obj\Debug\PermutationCiphers.csproj.CoreCompileInputs.cache
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr9\PermutationCiphers\obj\Debug\PermutationCiphers.exe
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr9\PermutationCiphers\obj\Debug\PermutationCiphers.pdb
+C:\Users\skvor\Documents\КУСТ\GitHub\MyLabsOnTheTheoryOfAlgoritms\lr9\PermutationCiphers\obj\Debug\PermutationCiphers.Form1.resources
